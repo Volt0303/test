@@ -1,7 +1,7 @@
 # Realtime Chat Application
 
 //able was i ere i saw elbaerdfdfdffggfg
-
+     
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
 ### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
@@ -21,3 +21,4 @@ By the end of this video, you will have a strong understanding of how to send an
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 //sdf
+     
